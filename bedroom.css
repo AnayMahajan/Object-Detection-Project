@@ -1,0 +1,10 @@
+.heading2
+{
+    width: 100%;
+    font-size: 22px;
+    margin: 0px;
+}
+canvas
+{
+    border-radius: 10px;
+}
